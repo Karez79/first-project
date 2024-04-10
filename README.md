@@ -1,4 +1,4 @@
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2022.svg" alt="TypeScript" width="20"/> [TypeScript](https://www.typescriptlang.org/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="20"/> [React](https://ru.reactjs.org/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.io" width="20"/> [Socket.io](https://socket.io/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="20"/> [CSS](https://www.w3.org)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2022.svg" alt="TypeScript" width="20"/>   [TypeScript](https://www.typescriptlang.org/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="20"/>   [React](https://ru.reactjs.org/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.io" width="20"/>   [Socket.io](https://socket.io/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="20"/>   [CSS](https://www.w3.org)
